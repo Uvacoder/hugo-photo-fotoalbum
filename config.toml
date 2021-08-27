@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://data4sci.github.io/fotoalbum/"
+baseurl = "https://hugo-photo-fotoalbum.vercel.app"
 languageCode = "cs-CZ"
 title = "Svatba Vendy & Jirka"
 theme = "photo-grid"
