@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "https://hugo-photo-fotoalbum.vercel.app"
-languageCode = "cs-CZ"
-title = "Svatba Vendy & Jirka"
+languageCode = "en-EN"
+title = "The Wedding"
 theme = "photo-grid"
 
 # Enter your tracking code to enable Google Analytics
@@ -10,15 +10,15 @@ theme = "photo-grid"
 [params]
     # Meta
     no_exif = true
-    title = "Svatba Vendy & Jirka"
-    subtitle = "" #"12. září 2020 | Belaria Resort"
-    author = "Robik & Ka"
-    description = "Commodo aute fugiat reprehenderit quis minim adipisicing ex exercitation."
-    keywords = "Svatba, Wedding, Photo, Gallery"
+    title = "The Wedding"
+    subtitle = "Belaria Resort"
+    author = "Lumberg"
+    description = "The beginning of the end!"
+    keywords = "Wedding, Photo, Gallery"
 
     # Body background and  text color
     bodybgcolor = "#3d3d3d" #"#DADADB" #"#6A6C6E"#
     bodytextcolor = "#f2f2f2"
 
     # Footer text
-    footertext = "Made with love by [Karin](https://kotalka.github.io/KARIKO/) a Rob. <br> (C) 2020"
+    footertext = "Made with love by [Me](https://github.com/uvacoder/) Me. <br> (C) 2020"
