@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://hugo-photo-fotoalbum.vercel.app"
+baseurl = "https://hugo-photo-fotoalbum-swart.vercel.app"
 languageCode = "en-EN"
 title = "The Wedding"
 theme = "photo-grid"
