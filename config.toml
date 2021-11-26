@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "https://hugo-photo-fotoalbum-swart.vercel.app"
 languageCode = "en-EN"
-title = "The Wedding"
+title = "The Day"
 theme = "photo-grid"
 
 # Enter your tracking code to enable Google Analytics
